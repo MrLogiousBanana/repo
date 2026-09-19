@@ -1,21 +1,21 @@
 Package: com.mrlogiousbanana.customapplibrary
 Name: App Library Control
-Version: 1.2.3
+Version: 1.2.4
 Architecture: iphoneos-arm64
 Description: Full customization of iOS App Library: custom categories, reordering, renaming, and hiding categories.
 Maintainer: mrlogiousbanana
 Author: mrlogiousbanana
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/AppLibraryControl_1.2.3_iphoneos-arm64.deb
-Size: 33964
-MD5sum: db47f55e7ab97a49e572965c536129f4
-SHA1: 7c87df86a442685df7562f297220fb50182a9c71
-SHA256: de70fc42f1bc55ced3fea52bbb966e98b689fe47cf687f616e3910a6f4c9903e
+Filename: debs/AppLibraryControl_1.2.4_iphoneos-arm64.deb
+Size: 46520
+MD5sum: 266fc4bb924adc747dfe5b6c9baa2ec8
+SHA1: 79178c4ca562fa62a8866721b88f205255242322
+SHA256: e6872bf32d9cee5d1ccff391a46d24bbc199f72e76cec2b3b8b723fa881198af
 
 Package: com.atwiiks.betterccxi
 Name: BetterCCXV (rootless)
-Version: 1.6.0-25
+Version: 1.6.0-26
 Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
@@ -23,24 +23,24 @@ Installed-Size: 640
 Author: ATWiiks & MrLogiousBanana
 Maintainer: MrLogiousBanana
 Description: Enhanced Control Center media player for iOS 15 rootless with artwork background
-Filename: debs/BetterCCXV_1.6.0-25_iphoneos-arm64.deb
-Size: 83552
-MD5sum: 2617f2468679b48201b7b9a432352575
-SHA1: 4806481efb0b8c49960e7aa175d1665b5b486130
-SHA256: 1f47cd48f39f12b6eb9a72f8e4ef1e39a160b66b02ed7b8b64cc90e2784d6114
+Filename: debs/BetterCCXV_1.6.0-26_iphoneos-arm64.deb
+Size: 131670
+MD5sum: 2e9fe0646f061e2adfa2a2b62c05a900
+SHA1: 851f1d09f5d81e8c21b77e78ac297fb8831e36b0
+SHA256: fd2014e37824dc5a22e62efd09b231c1f654c7aa75206e135fb78c3ee200566e
 
 Package: ru.banana.quicksnapcc
 Name: QuickSnap CC
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Description: Моментальное фото по тапу в Пункте управления и запись видео
 Maintainer: mrlogiousbanana
 Author: mrlogiousbanana
 Section: ControlCenter
 Depends: firmware (>= 15.0), com.opa334.ccsupport
-Filename: debs/QuickSnapCC_1.0.1_iphoneos-arm64.deb
-Size: 25044
-MD5sum: f8392b1b0da3a56ad00ec864eecf899f
-SHA1: 94161fd4fa70e990e6273aa9b398949e1e038ca7
-SHA256: b98092084c6bff0b51951da664193ead27ae73b8b7c53905f5681025ac760ef2
+Filename: debs/QuickSnapCC_1.0.2_iphoneos-arm64.deb
+Size: 36088
+MD5sum: 3e51b083bf527e11b58ffcb77d3071ba
+SHA1: 35b679da5d2eaf75f835d0dd26875eb4a30276ac
+SHA256: 35a3e8e8e3c5d786e21a965e60b53c1e58d7b65ffdec993ee881804caecd2b41
 

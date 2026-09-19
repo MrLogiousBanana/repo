@@ -13,6 +13,21 @@ MD5sum: 266fc4bb924adc747dfe5b6c9baa2ec8
 SHA1: 79178c4ca562fa62a8866721b88f205255242322
 SHA256: e6872bf32d9cee5d1ccff391a46d24bbc199f72e76cec2b3b8b723fa881198af
 
+Package: com.mrlogiousbanana.customapplibrary
+Name: App Library Control
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Description: Full customization of iOS App Library: custom categories, reordering, renaming, and hiding categories.
+Maintainer: mrlogiousbanana
+Author: mrlogiousbanana
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/AppLibraryControl_1.2.5_iphoneos-arm64.deb
+Size: 32184
+MD5sum: f95a113346aa5fb295c32e1f52869d7d
+SHA1: e8556a8082525613ee65fbee1b3943a19272eaad
+SHA256: ca261c9e7d9230d3bcd879d03d7d2c03a0e60d37a1e87ae5a54fb2ab67ed034c
+
 Package: com.atwiiks.betterccxi
 Name: BetterCCXV (rootless)
 Version: 1.6.0-26
@@ -29,6 +44,22 @@ MD5sum: 2e9fe0646f061e2adfa2a2b62c05a900
 SHA1: 851f1d09f5d81e8c21b77e78ac297fb8831e36b0
 SHA256: fd2014e37824dc5a22e62efd09b231c1f654c7aa75206e135fb78c3ee200566e
 
+Package: com.atwiiks.betterccxi
+Name: BetterCCXV (rootless)
+Version: 1.6.0-27
+Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Installed-Size: 640
+Author: ATWiiks & MrLogiousBanana
+Maintainer: MrLogiousBanana
+Description: Enhanced Control Center media player for iOS 15 rootless with artwork background
+Filename: debs/BetterCCXV_1.6.0-27_iphoneos-arm64.deb
+Size: 85148
+MD5sum: e039063573e01fce5a33657a66b66b3d
+SHA1: 0d35fcade5016fbb7fa5c42d6db29d18b311b6bc
+SHA256: b288419f785adf0420a5a96fdbdb48c77178d618ad44f652482f250cb033f3d8
+
 Package: ru.banana.quicksnapcc
 Name: QuickSnap CC
 Version: 1.0.2
@@ -43,4 +74,19 @@ Size: 36088
 MD5sum: 3e51b083bf527e11b58ffcb77d3071ba
 SHA1: 35b679da5d2eaf75f835d0dd26875eb4a30276ac
 SHA256: 35a3e8e8e3c5d786e21a965e60b53c1e58d7b65ffdec993ee881804caecd2b41
+
+Package: ru.banana.quicksnapcc
+Name: QuickSnap CC
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Description: Моментальное фото по тапу в Пункте управления и запись видео
+Maintainer: mrlogiousbanana
+Author: mrlogiousbanana
+Section: ControlCenter
+Depends: firmware (>= 15.0), com.opa334.ccsupport
+Filename: debs/QuickSnapCC_1.0.3_iphoneos-arm64.deb
+Size: 24776
+MD5sum: 641d8804dcd522f5fa07da11be7d246a
+SHA1: e43f6f493af464a6414b4a52386a367932093e2a
+SHA256: 349cb6900cc0bdc2cec2426134248b1d483b9a4f5de661df38ba20f5dbd6d6c2
 

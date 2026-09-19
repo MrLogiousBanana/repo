@@ -1,21 +1,21 @@
 Package: com.mrlogiousbanana.customapplibrary
 Name: App Library Control
-Version: 1.2.0
+Version: 1.2.1
 Architecture: iphoneos-arm64
 Description: Full customization of iOS App Library: custom categories, reordering, renaming, and hiding categories.
 Maintainer: mrlogiousbanana
 Author: mrlogiousbanana
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/AppLibraryControl_1.2.0_iphoneos-arm64.deb
-Size: 27136
-MD5sum: ca54ed0d3c547d0e82e3401538566e76
-SHA1: 8ae1c974428e88e601dd3d288315af53d9b41ae6
-SHA256: 44cb0c82120f4a147d5fd2402ce54d82503a31bf752e687bebf90adb566d17b7
+Filename: debs/AppLibraryControl_1.2.1_iphoneos-arm64.deb
+Size: 27412
+MD5sum: 3489a2b0a18f197f226a9e5d4d45f3ce
+SHA1: 8c2fecce88763f1a7325db02f2befa869383335a
+SHA256: 3016d3eb746ee828070cf417dfcd8bb2ea09f295f821af8a879c025f7d5f85a0
 
 Package: com.atwiiks.betterccxi
 Name: BetterCCXV (rootless)
-Version: 1.6.0-24
+Version: 1.6.0-25
 Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
@@ -23,11 +23,11 @@ Installed-Size: 640
 Author: ATWiiks & MrLogiousBanana
 Maintainer: MrLogiousBanana
 Description: Enhanced Control Center media player for iOS 15 rootless with artwork background
-Filename: debs/BetterCCXV_1.6.0-24_iphoneos-arm64.deb
-Size: 83672
-MD5sum: 93bd355d6c94c7b03bc6aa6bf68ddd45
-SHA1: e0ff3793f189d61a0c9f1854ed63e1eac01bca3f
-SHA256: 6d548f5d39f2943c55a3c50616c69d6f272e9f76bed3d0f5634b796dca5b8f06
+Filename: debs/BetterCCXV_1.6.0-25_iphoneos-arm64.deb
+Size: 83552
+MD5sum: 2617f2468679b48201b7b9a432352575
+SHA1: 4806481efb0b8c49960e7aa175d1665b5b486130
+SHA256: 1f47cd48f39f12b6eb9a72f8e4ef1e39a160b66b02ed7b8b64cc90e2784d6114
 
 Package: ru.banana.quicksnapcc
 Name: QuickSnap CC

@@ -1,17 +1,17 @@
 Package: com.mrlogiousbanana.customapplibrary
 Name: App Library Control
-Version: 1.2.1
+Version: 1.2.2
 Architecture: iphoneos-arm64
 Description: Full customization of iOS App Library: custom categories, reordering, renaming, and hiding categories.
 Maintainer: mrlogiousbanana
 Author: mrlogiousbanana
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/AppLibraryControl_1.2.1_iphoneos-arm64.deb
-Size: 27412
-MD5sum: 3489a2b0a18f197f226a9e5d4d45f3ce
-SHA1: 8c2fecce88763f1a7325db02f2befa869383335a
-SHA256: 3016d3eb746ee828070cf417dfcd8bb2ea09f295f821af8a879c025f7d5f85a0
+Filename: debs/AppLibraryControl_1.2.2_iphoneos-arm64.deb
+Size: 29692
+MD5sum: 7f0ce3e0d403b26675683c18c50199a1
+SHA1: 98ab932bbf519b547b71f4fdf81f9740b6d0265e
+SHA256: 45b7088e48ce067b33c62714f375e6cb642395be35bbd454b7b818431356562a
 
 Package: com.atwiiks.betterccxi
 Name: BetterCCXV (rootless)

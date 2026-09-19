@@ -1,0 +1,23 @@
+Origin: MrLogiousBanana Repo
+Label: MrLogiousBanana
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: MrLogiousBanana's Personal iOS 15 Rootless Repository
+MD5Sum:
+ a2e67b78373cd284a5f23391f7f9f6d6     1737 Packages
+ d49a4fd2644ae70d34b111ebc82e62d0      948 Packages.gz
+ 941465b493cf92c84d750991f7357baf     1032 Packages.bz2
+ 43b3cab7b135f942a4a64222b8561183      976 Packages.xz
+SHA1:
+ 21c77a8c57d791106d7d6256be077a71bb56668e     1737 Packages
+ c29f71b1f731cb9a8eea467bf6c0a3a2ed9d58b3      948 Packages.gz
+ f4a9d3defddad4f902dc5204b0f1217c1c0edb41     1032 Packages.bz2
+ 0570939c9fcefd3e0e3bc5ffd8405a43ca56d577      976 Packages.xz
+SHA256:
+ adcd0f37ec83ea065cc28df0aa0d2cdfc88354f520466d813abb64571ae638b5     1737 Packages
+ 514c007ad9aed0c2dceab50d4dca1d4e1acc2547996972564d577c90389b1143      948 Packages.gz
+ 4d99df1c3368ac42ba2db3f888043b2a964059a8625778a4671da7081da7b288     1032 Packages.bz2
+ 9765e3d24c805c6d5cab5f6c9b79c1196acedd5892184ff807df187100e18ba9      976 Packages.xz

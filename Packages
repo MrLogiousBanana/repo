@@ -1,0 +1,46 @@
+Package: com.mrlogiousbanana.customapplibrary
+Name: App Library Control
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Description: Full customization of iOS App Library: custom categories, reordering, renaming, and hiding categories.
+Maintainer: mrlogiousbanana
+Author: mrlogiousbanana
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/AppLibraryControl_1.2.0_iphoneos-arm64.deb
+Size: 27136
+MD5sum: ca54ed0d3c547d0e82e3401538566e76
+SHA1: 8ae1c974428e88e601dd3d288315af53d9b41ae6
+SHA256: 44cb0c82120f4a147d5fd2402ce54d82503a31bf752e687bebf90adb566d17b7
+
+Package: com.atwiiks.betterccxi
+Name: BetterCCXV (rootless)
+Version: 1.6.0-23
+Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Installed-Size: 640
+Author: ATWiiks & MrLogiousBanana
+Maintainer: MrLogiousBanana
+Description: Enhanced Control Center media player for iOS 15 rootless with artwork background
+Filename: debs/BetterCCXV_1.6.0-23_iphoneos-arm64.deb
+Size: 85844
+MD5sum: 841d3019963b32db79fedc1add8113d8
+SHA1: 23924da83dabf0e3644bf5594560c8c3c7ab95bb
+SHA256: 768e613c8448696031e70a95aa7689d7060a30d6b9cca1febd38e08b6e578b13
+
+Package: ru.banana.quicksnapcc
+Name: QuickSnap CC
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Description: Моментальное фото по тапу в Пункте управления и запись видео
+Maintainer: mrlogiousbanana
+Author: mrlogiousbanana
+Section: ControlCenter
+Depends: firmware (>= 15.0), com.opa334.ccsupport
+Filename: debs/QuickSnapCC_1.0.1_iphoneos-arm64.deb
+Size: 25044
+MD5sum: f8392b1b0da3a56ad00ec864eecf899f
+SHA1: 94161fd4fa70e990e6273aa9b398949e1e038ca7
+SHA256: b98092084c6bff0b51951da664193ead27ae73b8b7c53905f5681025ac760ef2
+

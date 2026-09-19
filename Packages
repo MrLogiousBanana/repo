@@ -15,7 +15,7 @@ SHA256: 44cb0c82120f4a147d5fd2402ce54d82503a31bf752e687bebf90adb566d17b7
 
 Package: com.atwiiks.betterccxi
 Name: BetterCCXV (rootless)
-Version: 1.6.0-23
+Version: 1.6.0-24
 Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
@@ -23,11 +23,11 @@ Installed-Size: 640
 Author: ATWiiks & MrLogiousBanana
 Maintainer: MrLogiousBanana
 Description: Enhanced Control Center media player for iOS 15 rootless with artwork background
-Filename: debs/BetterCCXV_1.6.0-23_iphoneos-arm64.deb
-Size: 85844
-MD5sum: 841d3019963b32db79fedc1add8113d8
-SHA1: 23924da83dabf0e3644bf5594560c8c3c7ab95bb
-SHA256: 768e613c8448696031e70a95aa7689d7060a30d6b9cca1febd38e08b6e578b13
+Filename: debs/BetterCCXV_1.6.0-24_iphoneos-arm64.deb
+Size: 83672
+MD5sum: 93bd355d6c94c7b03bc6aa6bf68ddd45
+SHA1: e0ff3793f189d61a0c9f1854ed63e1eac01bca3f
+SHA256: 6d548f5d39f2943c55a3c50616c69d6f272e9f76bed3d0f5634b796dca5b8f06
 
 Package: ru.banana.quicksnapcc
 Name: QuickSnap CC
